@@ -37,10 +37,15 @@ This project aims to utilise the available Crypto dataset to obtain a brief unde
 (5) Dont think i'll use all columns for the analysis but will retain the option to. Will not drop any datapoints.
 
 (6) Things we know so far:-
+     
      (a) There are 13 columns detailed out within the dictionary above.
+     
      (b) There are 942,294 data points across multiple coins.
+     
      (c) Data set begins on 2013-04-28 and ends on 2018-11-29. 
+     
      (d) Bitcoin (BTC) has the most available data of all coins (2042 data points in total - eg. 5.6 years of data).
+     
      (e) There are 2071 unique coins within the data set.
 
 (7) Preliminary framing of the problem:-
